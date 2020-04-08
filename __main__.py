@@ -60,7 +60,8 @@ while True:
 print('\nGAME SET')
 counter = main_board.countpiece()
 
-if main_board(main_board.game_status)==1:
+if main_board.game_status==0:
+    print('INTERRUPTION')
     if main_board.winner == EMPTY:
         print('SYSTEM ERROR: DRAW')
     elif main_board.winner == BLACK:
