@@ -18,6 +18,8 @@ class Board:
             self.board[int(SIZE / 2) - 1][int(SIZE / 2)] = BLACK
             self.board[int(SIZE / 2)][int(SIZE / 2) - 1] = BLACK
             self.board[int(SIZE / 2)][int(SIZE / 2)] = WHITE
+
+            self.winner=None
             
 
     def BoardPrint(self):
@@ -140,3 +142,6 @@ class Board:
             return False
         else:
             return True
+
+    def new_winner(self):
+        
