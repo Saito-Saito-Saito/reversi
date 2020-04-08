@@ -24,7 +24,6 @@ while True:
         print('● TURN', end=' ')
     else:
         logging.error('UNEXPECTED VALUE of PLAYER in the while loop')
-        winner = EMPTY
         break
 
     ### PASS CHECK
@@ -38,7 +37,7 @@ while True:
     print('(X to give up) >>> ', end='')
     s = input()
     if s in ['X', 'x']:
-        winner = -player
+        main_board.winner = -player
         break
     else:
         motion = IO.InputFormat(s)
@@ -61,14 +60,14 @@ while True:
 print('\nGAME SET')
 counter = main_board.countpiece()
 
-try:
-    if winner == EMPTY:
+if main_board(main_board.game_status)==1:
+    if main_board.winner == EMPTY:
         print('SYSTEM ERROR: DRAW')
-    elif winner == BLACK:
+    elif main_board.winner == BLACK:
         print('BLACK WINS')
-    elif winner == WHITE:
+    elif main_board.winner == WHITE:
         print('WHITE WINS')
-except:
+else:
     counter = main_board.countpiece()
     print('{} - {}'.format(counter[0], counter[1]))
     if counter[0] == counter[1]:

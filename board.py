@@ -18,8 +18,9 @@ class Board:
             self.board[int(SIZE / 2) - 1][int(SIZE / 2)] = BLACK
             self.board[int(SIZE / 2)][int(SIZE / 2) - 1] = BLACK
             self.board[int(SIZE / 2)][int(SIZE / 2)] = WHITE
-
-            self.winner=None
+            # 0:進行中(途中)　1:決着
+            self.game_status=0
+            self.winner=EMPTY
             
 
     def BoardPrint(self):
@@ -141,7 +142,5 @@ class Board:
             logging.debug('either can put yet')
             return False
         else:
+            self.game_status=1
             return True
-
-    def new_winner(self):
-        
