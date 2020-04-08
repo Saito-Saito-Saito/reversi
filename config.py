@@ -24,6 +24,11 @@ B = BLACK = 1
 W = WHITE = -1
 
 
+# game processing/set
+GAME_PRC = 0
+GAME_SET = 1
+
+
 WHOLE_DIRECTION = [
     [-1, -1], [-1, 0], [-1, 1],
     [0, -1], [0, 1],

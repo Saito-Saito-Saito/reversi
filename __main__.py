@@ -14,6 +14,7 @@ main_board.BoardPrint()
 
 while True:
     ### GAMESET JUDGE
+    # NOTE: you must not control game_status here because out of the loop it must be GAME_PRC
     if main_board.gamesetjudge():
         break
 
@@ -30,6 +31,7 @@ while True:
     if main_board.passjudge(player):
         print('BUT YOU CANNOT PUT ANYWHERE (PRESS ENTER TO PASS)')
         input()
+        # player change
         player *= -1
         continue
 
@@ -60,7 +62,7 @@ while True:
 print('\nGAME SET')
 counter = main_board.countpiece()
 
-if main_board.game_status==0:
+if main_board.game_status == GAME_PRC:
     print('INTERRUPTION')
     if main_board.winner == EMPTY:
         print('SYSTEM ERROR: DRAW')
