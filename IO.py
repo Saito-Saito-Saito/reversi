@@ -1,10 +1,13 @@
 #! /usr/bin/env python3
-# __main__.py
+# IO.py
+# programmed by Saito-Saito-Saito
+# last update: 4/5/2020
 
 
 import config
 
 
+# translate user's input into the index of the square
 def InputFormat(s):
     if len(s) != 2:
         config.logging.info('len(s) == {}'.format(len(s)))

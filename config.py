@@ -1,5 +1,7 @@
 #! /usr/bin/env python3
-# __main__.py
+# config.py
+# programmed by Saito-Saito-Saito
+# last update: 4/5/2020
 
 
 import sys
@@ -15,7 +17,7 @@ if int(SIZE / 2) != SIZE / 2:
     sys.exit()
 
 
-# rows & columns
+# rows & columns index
 ROW = 0
 COL = 1
 
@@ -29,6 +31,7 @@ GAME_PRC = 0
 GAME_SET = 1
 
 
+# direction is represented as follows: [toROW - frROW, toCOL - frCOL]
 WHOLE_DIRECTION = [
     [-1, -1], [-1, 0], [-1, 1],
     [0, -1], [0, 1],
@@ -36,6 +39,7 @@ WHOLE_DIRECTION = [
 ]
 
 
+# whether the index is in the board
 def InBoard(subject):
     if 0 <= subject < SIZE:
         return True

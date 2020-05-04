@@ -1,5 +1,7 @@
 #! /usr/bin/env python3
-# check.py
+# board.py
+# programmed by Saito-Saito-Saito
+# last update: 4/5/2020
 
 import copy
 
@@ -45,12 +47,20 @@ class Board:
         print('\n')
 
     
-    def putjudge(self, player, row, col, direction):
+    """
+        turnjudge judges whether the piece can be turned
+        if player put a piece on [R, C] ...
+        1.  check whether [R+direc[ROW], C+direc[COL]]==-player
+        2.  if yes and turnjudge(player, R+direc..., C+direc..., direc)==True, you can turn the direction when you put a piece on [R,C]
+        3.  if yes but turnjudge(player, R+direc..., C+direc..., direc)==False, you cannot turn the direction when you put a piece on [R, C] (it does not always mean that you cannot put a piece there)
+    """
+    def turnjudge(self, player, row, col, direction: list):
         # out of the board
         if not (InBoard(row) and InBoard(col)):
             logging.debug('{}, {}\tOUT OF THE BOARD'.format(row, col))
             return False
 
+        # BLACK, WHITE or EMPTY
         piece = self.board[row][col]
         
         # EMPTY
@@ -63,7 +73,7 @@ class Board:
             return True
         # OPPONENT'S
         elif piece == -player:
-            return self.putjudge(player, row + direction[ROW], col + direction[COL], direction)
+            return self.turnjudge(player, row + direction[ROW], col + direction[COL], direction)
         # ERROR
         else:
             logging.error('UNEXPECTED VALUE of PLAYER in putjudge')
@@ -90,7 +100,7 @@ class Board:
             next_piece = self.board[focused[ROW]][focused[COL]]
             logging.debug('direc = {}, next_piece = {}'.format(direction, next_piece))
             # in case available
-            if next_piece == -player and self.putjudge(player, focused[ROW], focused[COL], direction):
+            if next_piece == -player and self.turnjudge(player, focused[ROW], focused[COL], direction):
                 while self.board[focused[ROW]][focused[COL]] == -player:
                     self.board[focused[ROW]][focused[COL]] = player
                     focused[ROW] += direction[ROW]
@@ -101,13 +111,14 @@ class Board:
         if turned:
             self.board[row][col] = player
             return True
+        # in case any piece was not turned
         else:
             logging.info('THERE IS NO DIRECTION AVAILABLE')
             return False
 
     
     def passjudge(self, player):
-        # searching all EMPTY that can turn
+        # searching all EMPTY squares that can turn
         for row in range(SIZE):
             for col in range(SIZE):
                 if self.board[row][col] == EMPTY:
@@ -115,11 +126,11 @@ class Board:
                         focused = [row + direction[ROW], col + direction[COL]]
                         if not (InBoard(focused[ROW]) and InBoard(focused[COL])):
                             continue
-                        if self.board[focused[ROW]][focused[COL]] == -player and self.putjudge(player, focused[ROW], focused[COL], direction):
+                        if self.board[focused[ROW]][focused[COL]] == -player and self.turnjudge(player, focused[ROW], focused[COL], direction):
                             logging.info('THERE IS {}, {}'.format(row, col))
                             return False
         
-        # completing all the loop, there is no square that you can put
+        # completing all the loop, there is no square that you can put a piece
         return True
 
 

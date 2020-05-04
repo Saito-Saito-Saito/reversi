@@ -1,13 +1,15 @@
 #! /usr/bin/env python3
-# __main__.py
+# main.py
+# programmed by Saito-Saito-Saito
+# last update: 4/5/2020
 
 from config import *
 import IO
 import board
 
+# preset
 main_board = board.Board()
 player = BLACK
-turn = 1
 
 main_board.BoardPrint()
 
@@ -27,7 +29,7 @@ while True:
         logging.error('UNEXPECTED VALUE of PLAYER in the while loop')
         break
 
-    ### PASS CHECK
+    ### PASS JUDGE
     if main_board.passjudge(player):
         print('BUT YOU CANNOT PUT ANYWHERE (PRESS ENTER TO PASS)')
         input()
@@ -38,21 +40,23 @@ while True:
     ### INPUT
     print('(X to give up) >>> ', end='')
     s = input()
+    # give up
     if s in ['X', 'x']:
         main_board.winner = -player
         break
     else:
-        motion = IO.InputFormat(s)
-        logging.info('motion = {}'.format(motion))
+        square = IO.InputFormat(s)
+        logging.info('motion = {}'.format(square))
     
-    if motion == False:
+    # invalid putting
+    if square == False:
         print('INVALID INPUT')
         continue
-    elif main_board.turn(player, motion[0], motion[1]) == False:
-        print('INVALID PUT')
+    elif main_board.turn(player, *square) == False:
+        print('INVALID PUTTING')
         continue
     
-    # PLAYER CHANGE
+    ### PLAYER CHANGE
     player *= -1
 
     main_board.BoardPrint()
@@ -62,14 +66,16 @@ while True:
 print('\nGAME SET')
 counter = main_board.countpiece()
 
+# in case of give up
 if main_board.game_status == GAME_PRC:
     print('INTERRUPTION')
-    if main_board.winner == EMPTY:
-        print('SYSTEM ERROR: DRAW')
-    elif main_board.winner == BLACK:
+    if main_board.winner == BLACK:
         print('BLACK WINS')
     elif main_board.winner == WHITE:
         print('WHITE WINS')
+    else:
+        print('SYSTEM ERROR: DRAW')
+# the other cases of game set
 else:
     counter = main_board.countpiece()
     print('{} - {}'.format(counter[0], counter[1]))
