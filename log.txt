@@ -1,0 +1,1105 @@
+2020-07-02 12:34:32,371 - INFO - logger:IO - IO.py - L15 - InputFormat - len(s) == 0
+2020-07-02 12:34:34,877 - INFO - logger:IO - IO.py - L15 - InputFormat - len(s) == 1
+2020-07-02 12:34:36,591 - INFO - logger:IO - IO.py - L15 - InputFormat - len(s) == 3
+2020-07-02 12:34:50,957 - INFO - logger:IO - IO.py - L15 - InputFormat - len(s) == 0
+2020-07-02 12:43:46,287 - INFO - logger:IO - IO.py - L15 - InputFormat - len(s) == 3
+- main.py - L51 - <module> - motion = [2, 3]
+2020-07-02 12:34:14,779 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [2, 2]
+2020-07-02 12:34:22,267 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [4, 4]
+2020-07-02 12:34:24,696 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [5, 4]
+2020-07-02 12:34:32,372 - INFO - logger:__main__ - main.py - L51 - <module> - motion = False
+2020-07-02 12:34:34,878 - INFO - logger:__main__ - main.py - L51 - <module> - motion = False
+2020-07-02 12:34:36,591 - INFO - logger:__main__ - main.py - L51 - <module> - motion = False
+2020-07-02 12:34:37,429 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [3, 5]
+2020-07-02 12:34:48,939 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [2, 1]
+2020-07-02 12:34:50,957 - INFO - logger:__main__ - main.py - L51 - <module> - motion = False
+2020-07-02 12:34:58,377 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [6, 4]
+2020-07-02 12:35:02,685 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [4, 7]
+2020-07-02 12:35:22,498 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [7, 1]
+2020-07-02 12:35:41,300 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [6, 3]
+2020-07-02 12:35:44,111 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [7, 3]
+2020-07-02 12:35:51,829 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [7, 2]
+2020-07-02 12:36:00,380 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [5, 5]
+2020-07-02 12:36:12,995 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [7, 0]
+2020-07-02 12:36:34,466 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [1, 3]
+2020-07-02 12:36:42,371 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [7, 4]
+2020-07-02 12:36:49,125 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [2, 0]
+2020-07-02 12:36:52,531 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [0, 3]
+2020-07-02 12:37:00,694 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [3, 2]
+2020-07-02 12:37:50,089 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [3, 6]
+2020-07-02 12:38:15,026 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [2, 4]
+2020-07-02 12:38:30,646 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [5, 2]
+2020-07-02 12:38:38,698 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [6, 1]
+2020-07-02 12:38:45,195 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [4, 2]
+2020-07-02 12:38:48,972 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [5, 1]
+2020-07-02 12:38:59,172 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [4, 1]
+2020-07-02 12:39:04,516 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [5, 0]
+2020-07-02 12:39:21,000 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [7, 5]
+2020-07-02 12:39:36,731 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [2, 7]
+2020-07-02 12:39:48,584 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [6, 0]
+2020-07-02 12:40:05,573 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [5, 7]
+2020-07-02 12:40:21,411 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [6, 5]
+2020-07-02 12:40:27,163 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [7, 6]
+2020-07-02 12:40:29,002 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [7, 7]
+2020-07-02 12:40:45,102 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [0, 4]
+2020-07-02 12:40:49,775 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [4, 0]
+2020-07-02 12:40:54,872 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [3, 0]
+2020-07-02 12:40:56,553 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [1, 0]
+2020-07-02 12:41:00,546 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [3, 1]
+2020-07-02 12:41:12,195 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [6, 7]
+2020-07-02 12:41:21,901 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [0, 2]
+2020-07-02 12:41:51,037 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [6, 6]
+2020-07-02 12:41:53,018 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [5, 6]
+2020-07-02 12:42:00,349 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [3, 7]
+2020-07-02 12:42:19,322 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [2, 6]
+2020-07-02 12:42:21,818 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [1, 6]
+2020-07-02 12:42:25,563 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [0, 5]
+2020-07-02 12:42:35,574 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [2, 5]
+2020-07-02 12:42:47,275 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [1, 4]
+2020-07-02 12:42:56,877 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [1, 5]
+2020-07-02 12:43:04,639 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [0, 2]
+2020-07-02 12:43:09,112 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [1, 2]
+2020-07-02 12:43:15,648 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [0, 7]
+2020-07-02 12:43:19,841 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [1, 7]
+2020-07-02 12:43:22,923 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [0, 6]
+2020-07-02 12:43:29,549 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [0, 1]
+2020-07-02 12:43:32,583 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [1, 1]
+2020-07-02 12:43:42,526 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [0, 0]
+2020-07-02 12:43:46,287 - INFO - logger:__main__ - main.py - L51 - <module> - motion = False
+2020-07-02 12:43:47,022 - INFO - logger:__main__ - main.py - L51 - <module> - motion = [0, 1]
+board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:34:05,192 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:34:05,192 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:34:05,194 - DEBUG - logger:board - board.py - L75 - turnjudge - 5, 5	REACHED TO EMPTY
+2020-07-02 12:34:05,194 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:05,194 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 3
+2020-07-02 12:34:05,194 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:05,195 - DEBUG - logger:board - board.py - L75 - turnjudge - 5, 5	REACHED TO EMPTY
+2020-07-02 12:34:05,195 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:05,195 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 3
+2020-07-02 12:34:10,670 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:34:10,670 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:34:10,670 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:34:10,670 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:34:10,670 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:34:10,671 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:34:10,671 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:34:10,671 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:10,671 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:34:10,673 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:10,673 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 3, 5
+2020-07-02 12:34:10,673 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:10,674 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:34:10,674 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 2
+2020-07-02 12:34:14,779 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:34:14,779 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:34:14,780 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:34:14,780 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:34:14,780 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:34:14,780 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 4	REACHED TO EMPTY
+2020-07-02 12:34:14,780 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:34:14,780 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:34:14,780 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:34:14,781 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:14,782 - DEBUG - logger:board - board.py - L75 - turnjudge - 5, 5	REACHED TO EMPTY
+2020-07-02 12:34:14,782 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:34:14,782 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:34:14,783 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:14,783 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 1
+2020-07-02 12:34:14,783 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:14,783 - DEBUG - logger:board - board.py - L75 - turnjudge - 5, 5	REACHED TO EMPTY
+2020-07-02 12:34:14,784 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:34:14,784 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:34:14,784 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:14,784 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 1
+2020-07-02 12:34:22,267 - INFO - logger:board - board.py - L100 - turn - THERE IS ALREADY A PIECE
+2020-07-02 12:34:22,268 - DEBUG - logger:board - board.py - L75 - turnjudge - 5, 5	REACHED TO EMPTY
+2020-07-02 12:34:22,268 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:34:22,269 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:34:22,269 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:22,269 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 1
+2020-07-02 12:34:22,270 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:22,270 - DEBUG - logger:board - board.py - L75 - turnjudge - 5, 5	REACHED TO EMPTY
+2020-07-02 12:34:22,270 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:34:22,271 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:34:22,271 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:22,271 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 1
+2020-07-02 12:34:24,697 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 1
+2020-07-02 12:34:24,697 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:34:24,697 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:24,697 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:34:24,697 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 6	REACHED TO EMPTY
+2020-07-02 12:34:24,698 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:34:24,698 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:34:24,698 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:34:24,698 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:34:24,698 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:34:24,700 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:24,700 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:34:24,700 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:24,701 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:34:24,701 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 2
+2020-07-02 12:34:32,372 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:32,372 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:34:32,373 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:32,373 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:34:32,373 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 2
+2020-07-02 12:34:34,878 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:34,879 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:34:34,879 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:34,879 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:34:34,880 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 2
+2020-07-02 12:34:36,592 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:36,592 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:34:36,592 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:36,593 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:34:36,593 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 2
+2020-07-02 12:34:37,430 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:34:37,430 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:34:37,430 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:34:37,430 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:34:37,431 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:37,431 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:34:37,431 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:34:37,431 - DEBUG - logger:board - board.py - L75 - turnjudge - 7, 1	REACHED TO EMPTY
+2020-07-02 12:34:37,431 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:34:37,431 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:34:37,433 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:37,433 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:34:37,433 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:37,434 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:37,434 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:34:48,939 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:34:48,940 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:34:48,940 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:34:48,940 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:34:48,940 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:34:48,940 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:48,940 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:34:48,941 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:34:48,941 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:34:48,942 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:34:48,942 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:48,943 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:34:48,943 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:48,943 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:34:48,943 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:34:48,943 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:48,944 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:34:50,958 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:34:50,958 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:50,958 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:34:50,958 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:50,959 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:34:50,959 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:34:50,959 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:50,959 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:34:58,377 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 1
+2020-07-02 12:34:58,378 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:34:58,378 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 1
+2020-07-02 12:34:58,378 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 4	REACHED TO OWN PIEE
+2020-07-02 12:34:58,378 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:34:58,379 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:34:58,379 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:34:58,380 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:34:58,380 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:34:58,380 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:34:58,382 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:34:58,382 - DEBUG - logger:board - board.py - L75 - turnjudge - 7, 4	REACHED TO EMPTY
+2020-07-02 12:34:58,382 - DEBUG - logger:board - board.py - L75 - turnjudge - 5, 7	REACHED TO EMPTY
+2020-07-02 12:34:58,382 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:58,382 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 5
+2020-07-02 12:34:58,383 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:34:58,384 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:34:58,384 - DEBUG - logger:board - board.py - L75 - turnjudge - 7, 4	REACHED TO EMPTY
+2020-07-02 12:34:58,384 - DEBUG - logger:board - board.py - L75 - turnjudge - 5, 7	REACHED TO EMPTY
+2020-07-02 12:34:58,384 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:34:58,384 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 5
+2020-07-02 12:35:02,685 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:35:02,685 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:35:02,686 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:35:02,686 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:35:02,686 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:35:02,686 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:35:02,688 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:35:02,688 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:35:02,688 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:35:02,688 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:35:02,689 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:35:02,689 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:35:02,689 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:35:02,689 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:35:22,498 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:35:22,499 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:35:22,499 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 1
+2020-07-02 12:35:22,499 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 5	REACHED TO OWN PIEE
+2020-07-02 12:35:22,499 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:35:22,499 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:35:22,501 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:35:22,501 - DEBUG - logger:board - board.py - L75 - turnjudge - 7, 4	REACHED TO EMPTY
+2020-07-02 12:35:22,501 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 6	REACHED TO OWN PIEE
+2020-07-02 12:35:22,502 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:35:22,502 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:35:22,502 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:35:22,503 - DEBUG - logger:board - board.py - L75 - turnjudge - 7, 4	REACHED TO EMPTY
+2020-07-02 12:35:22,503 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 6	REACHED TO OWN PIEE
+2020-07-02 12:35:22,503 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:35:41,301 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:35:41,301 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:35:41,302 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:35:41,302 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:35:41,302 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:35:41,302 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:35:41,302 - DEBUG - logger:board - board.py - L75 - turnjudge - 6, 1	REACHED TO EMPTY
+2020-07-02 12:35:41,303 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:35:41,303 - DEBUG - logger:board - board.py - L75 - turnjudge - 6, 5	REACHED TO EMPTY
+2020-07-02 12:35:41,303 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:35:41,303 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:35:41,303 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:35:41,305 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:35:41,305 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:35:41,305 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:35:41,306 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:35:41,306 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:35:41,306 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:35:41,306 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:35:41,307 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:35:44,112 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = -1
+2020-07-02 12:35:44,112 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 1
+2020-07-02 12:35:44,112 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:35:44,112 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:35:44,112 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:35:44,113 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:35:44,114 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:35:44,115 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:35:44,115 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:35:44,115 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:35:44,116 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:35:44,116 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:35:44,116 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:35:51,830 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:35:51,830 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:35:51,830 - DEBUG - logger:board - board.py - L75 - turnjudge - 5, 2	REACHED TO EMPTY
+2020-07-02 12:35:51,830 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:35:51,830 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:35:51,830 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:35:51,831 - DEBUG - logger:board - board.py - L75 - turnjudge - 7, 0	REACHED TO EMPTY
+2020-07-02 12:35:51,831 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:35:51,831 - DEBUG - logger:board - board.py - L75 - turnjudge - 7, 4	REACHED TO EMPTY
+2020-07-02 12:35:51,833 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:35:51,833 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:35:51,833 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:35:51,833 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:35:51,834 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:35:51,834 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:35:51,834 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:35:51,834 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:36:00,380 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = -1
+2020-07-02 12:36:00,380 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 1
+2020-07-02 12:36:00,380 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 5	REACHED TO OWN PIEE
+2020-07-02 12:36:00,381 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 1
+2020-07-02 12:36:00,381 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 7	REACHED TO EMPTY
+2020-07-02 12:36:00,381 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:36:00,381 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:00,381 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:36:00,382 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = -1
+2020-07-02 12:36:00,382 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:36:00,382 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:36:00,384 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:36:00,384 - DEBUG - logger:board - board.py - L75 - turnjudge - 7, 4	REACHED TO EMPTY
+2020-07-02 12:36:00,384 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 6	REACHED TO OWN PIEE
+2020-07-02 12:36:00,384 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:36:00,384 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:36:00,385 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:36:00,385 - DEBUG - logger:board - board.py - L75 - turnjudge - 7, 4	REACHED TO EMPTY
+2020-07-02 12:36:00,385 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 6	REACHED TO OWN PIEE
+2020-07-02 12:36:00,386 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:36:12,995 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:36:12,996 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:36:12,996 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:36:12,996 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 2	REACHED TO OWN PIEE
+2020-07-02 12:36:12,998 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:36:12,998 - DEBUG - logger:board - board.py - L75 - turnjudge - 7, 4	REACHED TO EMPTY
+2020-07-02 12:36:12,998 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 6	REACHED TO OWN PIEE
+2020-07-02 12:36:12,998 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:36:12,998 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:36:12,999 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:36:12,999 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:36:12,999 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:12,999 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:36:34,466 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:36:34,466 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:36:34,466 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:36:34,467 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:36:34,467 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:36:34,467 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:36:34,467 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:36:34,467 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:36:34,467 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:34,467 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:36:34,468 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 4	REACHED TO EMPTY
+2020-07-02 12:36:34,469 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:34,469 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 3
+2020-07-02 12:36:34,469 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:36:34,469 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 4	REACHED TO EMPTY
+2020-07-02 12:36:34,469 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:34,470 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 3
+2020-07-02 12:36:42,371 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 1
+2020-07-02 12:36:42,371 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:36:42,371 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 4	REACHED TO EMPTY
+2020-07-02 12:36:42,371 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:36:42,372 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:36:42,372 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 2	REACHED TO OWN PIEE
+2020-07-02 12:36:42,372 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:36:42,373 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 4	REACHED TO EMPTY
+2020-07-02 12:36:42,373 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:42,374 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 3
+2020-07-02 12:36:42,374 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:36:42,374 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:36:42,375 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:36:42,375 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:42,375 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:36:49,126 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:36:49,126 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:36:49,126 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:36:49,126 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:49,126 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:36:49,126 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:36:49,128 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 4	REACHED TO EMPTY
+2020-07-02 12:36:49,128 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:49,128 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 3
+2020-07-02 12:36:49,128 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:36:49,129 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 4	REACHED TO EMPTY
+2020-07-02 12:36:49,129 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:49,129 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 3
+2020-07-02 12:36:52,531 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:36:52,532 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:36:52,532 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:36:52,532 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:36:52,532 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:52,532 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:36:52,534 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:36:52,534 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 2	REACHED TO EMPTY
+2020-07-02 12:36:52,534 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:36:52,534 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:36:52,535 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:36:52,535 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:36:52,535 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:36:52,535 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 4	REACHED TO EMPTY
+2020-07-02 12:36:52,535 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 4	REACHED TO EMPTY
+2020-07-02 12:36:52,536 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 2	REACHED TO EMPTY
+2020-07-02 12:36:52,536 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 2	REACHED TO OWN PIEE
+2020-07-02 12:36:52,536 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 4
+2020-07-02 12:37:00,695 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = -1
+2020-07-02 12:37:00,695 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:37:00,695 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 1
+2020-07-02 12:37:00,695 - DEBUG - logger:board - board.py - L75 - turnjudge - 1, 4	REACHED TO EMPTY
+2020-07-02 12:37:00,695 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:37:00,696 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:37:00,696 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 4	REACHED TO OWN PIEE
+2020-07-02 12:37:00,696 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:37:00,696 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:37:00,696 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:37:00,697 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:37:00,698 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:37:00,698 - DEBUG - logger:board - board.py - L75 - turnjudge - 6, 5	REACHED TO EMPTY
+2020-07-02 12:37:00,698 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:37:00,698 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:37:00,698 - DEBUG - logger:board - board.py - L75 - turnjudge - 6, 6	REACHED TO EMPTY
+2020-07-02 12:37:00,699 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:37:00,699 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:37:00,699 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:37:00,699 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 4	REACHED TO OWN PIEE
+2020-07-02 12:37:00,699 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:37:00,700 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:37:00,700 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:37:00,700 - DEBUG - logger:board - board.py - L75 - turnjudge - 6, 5	REACHED TO EMPTY
+2020-07-02 12:37:00,700 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:37:00,700 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:37:00,701 - DEBUG - logger:board - board.py - L75 - turnjudge - 6, 6	REACHED TO EMPTY
+2020-07-02 12:37:00,701 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:37:00,701 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:37:00,701 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 2	REACHED TO EMPTY
+2020-07-02 12:37:00,701 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 4	REACHED TO OWN PIEE
+2020-07-02 12:37:00,702 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 2, 4
+2020-07-02 12:37:50,090 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:37:50,090 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:37:50,090 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:37:50,090 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:37:50,090 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:37:50,090 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:37:50,091 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = -1
+2020-07-02 12:37:50,091 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 3	REACHED TO OWN PIEE
+2020-07-02 12:37:50,091 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:37:50,091 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:37:50,092 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:37:50,093 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:37:50,093 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:37:50,093 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:37:50,093 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 4	REACHED TO EMPTY
+2020-07-02 12:37:50,093 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 4	REACHED TO EMPTY
+2020-07-02 12:37:50,093 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 2	REACHED TO EMPTY
+2020-07-02 12:37:50,094 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 2	REACHED TO OWN PIEE
+2020-07-02 12:37:50,094 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 4
+2020-07-02 12:38:15,027 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 1
+2020-07-02 12:38:15,027 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 2	REACHED TO EMPTY
+2020-07-02 12:38:15,027 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:38:15,027 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:38:15,027 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:38:15,028 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 2	REACHED TO OWN PIEE
+2020-07-02 12:38:15,028 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:38:15,028 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = -1
+2020-07-02 12:38:15,028 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:38:15,028 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:38:15,029 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:38:15,030 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:38:15,030 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:38:15,030 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:38:15,030 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:38:15,031 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:38:15,031 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:38:30,646 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:38:30,647 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:38:30,647 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:38:30,647 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 5	REACHED TO EMPTY
+2020-07-02 12:38:30,647 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:38:30,648 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:38:30,648 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:38:30,648 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:38:30,648 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 2	REACHED TO OWN PIEE
+2020-07-02 12:38:30,648 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:38:30,650 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:38:30,650 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:38:30,650 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:38:30,650 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:38:30,651 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 4	REACHED TO EMPTY
+2020-07-02 12:38:30,651 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 4	REACHED TO OWN PIEE
+2020-07-02 12:38:30,651 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:38:38,699 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:38:38,699 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:38:38,699 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 1
+2020-07-02 12:38:38,699 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:38:38,699 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:38:38,700 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:38:38,700 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 4	REACHED TO OWN PIEE
+2020-07-02 12:38:38,700 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:38:38,700 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, -1	OUT OF THE BOARD
+2020-07-02 12:38:38,700 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:38:38,700 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 1	OUT OF THE BOARD
+2020-07-02 12:38:38,700 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:38:38,701 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 3	OUT OF THE BOARD
+2020-07-02 12:38:38,702 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:38:38,702 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:38:38,702 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:38:38,702 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:38:38,703 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:38:38,703 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:38:38,703 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:38:45,196 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:38:45,196 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:38:45,196 - DEBUG - logger:board - board.py - L75 - turnjudge - 1, 2	REACHED TO EMPTY
+2020-07-02 12:38:45,196 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:38:45,196 - DEBUG - logger:board - board.py - L75 - turnjudge - 1, 5	REACHED TO EMPTY
+2020-07-02 12:38:45,197 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:38:45,197 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:38:45,197 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:38:45,197 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:38:45,197 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:38:45,197 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 2	REACHED TO OWN PIEE
+2020-07-02 12:38:45,198 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:38:45,199 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:38:45,199 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:38:45,199 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:38:45,199 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:38:45,200 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 4	REACHED TO EMPTY
+2020-07-02 12:38:45,200 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 4	REACHED TO OWN PIEE
+2020-07-02 12:38:45,200 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:38:48,972 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:38:48,972 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:38:48,972 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 1
+2020-07-02 12:38:48,973 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:38:48,973 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:38:48,973 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:38:48,973 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 5	REACHED TO OWN PIEE
+2020-07-02 12:38:48,973 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:38:48,973 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:38:48,974 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:38:48,974 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 4	OUT OF THE BOARD
+2020-07-02 12:38:48,975 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:38:48,975 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:38:48,976 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:38:48,976 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:38:48,976 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:38:48,976 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:38:48,977 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:38:59,173 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:38:59,173 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:38:59,173 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:38:59,173 - DEBUG - logger:board - board.py - L75 - turnjudge - 1, 4	REACHED TO EMPTY
+2020-07-02 12:38:59,174 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:38:59,174 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:38:59,174 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:38:59,175 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:38:59,175 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:38:59,175 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 1	REACHED TO OWN PIEE
+2020-07-02 12:38:59,175 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:38:59,175 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 4	REACHED TO OWN PIEE
+2020-07-02 12:38:59,176 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:38:59,177 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:38:59,177 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:38:59,177 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:38:59,177 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 4	REACHED TO EMPTY
+2020-07-02 12:38:59,177 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 4	REACHED TO OWN PIEE
+2020-07-02 12:38:59,177 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:39:04,516 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:39:04,517 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 1
+2020-07-02 12:39:04,517 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 2	REACHED TO OWN PIEE
+2020-07-02 12:39:04,517 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:39:04,517 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 3	REACHED TO OWN PIEE
+2020-07-02 12:39:04,518 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:39:04,518 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:39:04,518 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 3	OUT OF THE BOARD
+2020-07-02 12:39:04,520 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:39:04,520 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:39:04,520 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:39:04,520 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:39:04,521 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:39:04,521 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:39:04,521 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:39:21,001 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = -1
+2020-07-02 12:39:21,001 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 2	REACHED TO OWN PIEE
+2020-07-02 12:39:21,001 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:39:21,001 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:39:21,001 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:39:21,001 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:39:21,002 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:39:21,003 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:39:21,003 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:39:21,003 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:39:21,004 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 4	REACHED TO EMPTY
+2020-07-02 12:39:21,004 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 4	REACHED TO OWN PIEE
+2020-07-02 12:39:21,004 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:39:36,731 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:39:36,731 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:39:36,731 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:39:36,732 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:39:36,732 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 4	REACHED TO OWN PIEE
+2020-07-02 12:39:36,732 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:39:36,733 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:39:36,733 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:39:36,734 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:39:36,734 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:39:36,734 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:39:36,734 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:39:36,734 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:39:48,584 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:39:48,584 - DEBUG - logger:board - board.py - L75 - turnjudge - 4, 0	REACHED TO EMPTY
+2020-07-02 12:39:48,585 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:39:48,585 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 2	REACHED TO OWN PIEE
+2020-07-02 12:39:48,585 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:39:48,585 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:39:48,585 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:39:48,587 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:39:48,587 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:39:48,587 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:39:48,587 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:39:48,587 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 4	REACHED TO EMPTY
+2020-07-02 12:39:48,587 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 4	REACHED TO OWN PIEE
+2020-07-02 12:39:48,588 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:40:05,573 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 1
+2020-07-02 12:40:05,573 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 5	REACHED TO OWN PIEE
+2020-07-02 12:40:05,573 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 1
+2020-07-02 12:40:05,573 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 7	REACHED TO EMPTY
+2020-07-02 12:40:05,573 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:40:05,574 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:40:05,574 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:40:05,575 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:40:05,575 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:40:05,575 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:40:05,575 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:40:05,575 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:40:05,576 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:40:05,576 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:40:21,412 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = -1
+2020-07-02 12:40:21,412 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:40:21,412 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:40:21,412 - DEBUG - logger:board - board.py - L75 - turnjudge - 2, 5	REACHED TO EMPTY
+2020-07-02 12:40:21,412 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:40:21,413 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:40:21,413 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:40:21,413 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:40:21,413 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:40:21,413 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:40:21,414 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:40:21,414 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 3	REACHED TO OWN PIEE
+2020-07-02 12:40:21,415 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:40:21,415 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:40:21,415 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 4	REACHED TO EMPTY
+2020-07-02 12:40:21,415 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 4	REACHED TO OWN PIEE
+2020-07-02 12:40:21,415 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:40:27,163 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 1
+2020-07-02 12:40:27,163 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 2	REACHED TO OWN PIEE
+2020-07-02 12:40:27,163 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:40:27,164 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:40:27,164 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:40:27,164 - DEBUG - logger:board - board.py - L67 - turnjudge - 7, -1	OUT OF THE BOARD
+2020-07-02 12:40:27,165 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:40:27,166 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:40:27,166 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 7	OUT OF THE BOARD
+2020-07-02 12:40:27,166 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:40:27,166 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:40:27,166 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:40:27,167 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:40:27,167 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:40:27,167 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:40:27,167 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 7	OUT OF THE BOARD
+2020-07-02 12:40:27,167 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:40:27,168 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 1	REACHED TO EMPTY
+2020-07-02 12:40:27,168 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:40:27,168 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:40:29,002 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:40:29,003 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:40:29,003 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:40:29,003 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 5	REACHED TO OWN PIEE
+2020-07-02 12:40:29,007 - DEBUG - logger:board - board.py - L75 - turnjudge - 3, 0	REACHED TO EMPTY
+2020-07-02 12:40:29,007 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 6	REACHED TO OWN PIEE
+2020-07-02 12:40:29,007 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 0
+2020-07-02 12:40:29,007 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:40:29,007 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 4	REACHED TO EMPTY
+2020-07-02 12:40:29,008 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 4	REACHED TO OWN PIEE
+2020-07-02 12:40:29,008 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:40:45,103 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:40:45,103 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 2	REACHED TO EMPTY
+2020-07-02 12:40:45,103 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:40:45,103 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:40:45,103 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 2	REACHED TO OWN PIEE
+2020-07-02 12:40:45,103 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:40:45,104 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 0
+2020-07-02 12:40:45,105 - DEBUG - logger:board - board.py - L67 - turnjudge - 6, 8	OUT OF THE BOARD
+2020-07-02 12:40:45,105 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 3	REACHED TO OWN PIEE
+2020-07-02 12:40:45,105 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 5
+2020-07-02 12:40:45,105 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:40:45,105 - DEBUG - logger:board - board.py - L67 - turnjudge - 6, 8	OUT OF THE BOARD
+2020-07-02 12:40:45,106 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 3	REACHED TO OWN PIEE
+2020-07-02 12:40:45,106 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 5
+2020-07-02 12:40:49,775 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:40:49,775 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:40:49,776 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:40:49,776 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 2	REACHED TO OWN PIEE
+2020-07-02 12:40:49,776 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:40:49,776 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 0	REACHED TO OWN PIEE
+2020-07-02 12:40:49,776 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:40:49,777 - DEBUG - logger:board - board.py - L67 - turnjudge - 6, 8	OUT OF THE BOARD
+2020-07-02 12:40:49,777 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 3	REACHED TO OWN PIEE
+2020-07-02 12:40:49,778 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 5
+2020-07-02 12:40:49,778 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:40:49,778 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 4	REACHED TO OWN PIEE
+2020-07-02 12:40:49,778 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:40:54,872 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:40:54,872 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:40:54,873 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:40:54,873 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:40:54,873 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:40:54,873 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:40:54,873 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 2	REACHED TO OWN PIEE
+2020-07-02 12:40:54,875 - DEBUG - logger:board - board.py - L67 - turnjudge - 6, 8	OUT OF THE BOARD
+2020-07-02 12:40:54,875 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 3	REACHED TO OWN PIEE
+2020-07-02 12:40:54,875 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 5
+2020-07-02 12:40:54,875 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:40:54,875 - DEBUG - logger:board - board.py - L67 - turnjudge - 6, 8	OUT OF THE BOARD
+2020-07-02 12:40:54,876 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 3	REACHED TO OWN PIEE
+2020-07-02 12:40:54,876 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 5
+2020-07-02 12:40:56,554 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:40:56,554 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:40:56,554 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:40:56,554 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:40:56,554 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 0	REACHED TO OWN PIEE
+2020-07-02 12:40:56,555 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:40:56,555 - DEBUG - logger:board - board.py - L79 - turnjudge - 7, 6	REACHED TO OWN PIEE
+2020-07-02 12:40:56,556 - DEBUG - logger:board - board.py - L67 - turnjudge - 6, 8	OUT OF THE BOARD
+2020-07-02 12:40:56,556 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 3	REACHED TO OWN PIEE
+2020-07-02 12:40:56,556 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 5
+2020-07-02 12:40:56,556 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:40:56,556 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:40:56,557 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:40:56,557 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 4	REACHED TO OWN PIEE
+2020-07-02 12:40:56,557 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:41:00,546 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 1
+2020-07-02 12:41:00,546 - DEBUG - logger:board - board.py - L67 - turnjudge - 1, -1	OUT OF THE BOARD
+2020-07-02 12:41:00,547 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 1
+2020-07-02 12:41:00,547 - DEBUG - logger:board - board.py - L75 - turnjudge - 1, 1	REACHED TO EMPTY
+2020-07-02 12:41:00,547 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:41:00,547 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:41:00,547 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:41:00,547 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:41:00,548 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:41:00,548 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:41:00,548 - DEBUG - logger:board - board.py - L67 - turnjudge - 5, -1	OUT OF THE BOARD
+2020-07-02 12:41:00,548 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:41:00,548 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:41:00,548 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 6	OUT OF THE BOARD
+2020-07-02 12:41:00,549 - DEBUG - logger:board - board.py - L67 - turnjudge - 6, 8	OUT OF THE BOARD
+2020-07-02 12:41:00,550 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 3	REACHED TO OWN PIEE
+2020-07-02 12:41:00,550 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 5
+2020-07-02 12:41:00,550 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:41:00,550 - DEBUG - logger:board - board.py - L67 - turnjudge - 6, 8	OUT OF THE BOARD
+2020-07-02 12:41:00,550 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 3	REACHED TO OWN PIEE
+2020-07-02 12:41:00,551 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 5
+2020-07-02 12:41:12,195 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:41:12,196 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:41:12,196 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 7	REACHED TO OWN PIEE
+2020-07-02 12:41:12,196 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:41:12,196 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:41:12,196 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:41:12,198 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 7	REACHED TO OWN PIEE
+2020-07-02 12:41:12,198 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:41:12,198 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:41:12,198 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:41:12,198 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:41:12,199 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 4	REACHED TO OWN PIEE
+2020-07-02 12:41:12,199 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 2
+2020-07-02 12:41:21,902 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:41:21,902 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:41:21,902 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 4	REACHED TO OWN PIEE
+2020-07-02 12:41:21,902 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:41:21,902 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:41:21,903 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:41:21,904 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 5	REACHED TO EMPTY
+2020-07-02 12:41:21,904 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:41:21,904 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 3	OUT OF THE BOARD
+2020-07-02 12:41:21,905 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:41:21,905 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:41:21,905 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:41:21,905 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 5	REACHED TO EMPTY
+2020-07-02 12:41:21,905 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:41:21,906 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 3	OUT OF THE BOARD
+2020-07-02 12:41:21,906 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:41:21,906 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:41:51,038 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = -1
+2020-07-02 12:41:51,038 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:41:51,038 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:41:51,038 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 1
+2020-07-02 12:41:51,039 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:41:51,039 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:41:51,039 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:41:51,039 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:41:51,039 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:41:51,041 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 5	REACHED TO EMPTY
+2020-07-02 12:41:51,041 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:41:51,041 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 3	OUT OF THE BOARD
+2020-07-02 12:41:51,042 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:41:51,042 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:41:51,042 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:41:51,042 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:41:51,042 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:41:51,043 - DEBUG - logger:board - board.py - L67 - turnjudge - 1, -1	OUT OF THE BOARD
+2020-07-02 12:41:51,043 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:41:51,043 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 1	REACHED TO OWN PIEE
+2020-07-02 12:41:51,043 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:41:53,019 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = -1
+2020-07-02 12:41:53,019 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:41:53,019 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 1
+2020-07-02 12:41:53,019 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, 8	OUT OF THE BOARD
+2020-07-02 12:41:53,019 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:41:53,020 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 2	REACHED TO OWN PIEE
+2020-07-02 12:41:53,020 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:41:53,020 - DEBUG - logger:board - board.py - L67 - turnjudge - 5, 8	OUT OF THE BOARD
+2020-07-02 12:41:53,020 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:41:53,020 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 3	OUT OF THE BOARD
+2020-07-02 12:41:53,020 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:41:53,021 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 6	OUT OF THE BOARD
+2020-07-02 12:41:53,021 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:41:53,021 - DEBUG - logger:board - board.py - L67 - turnjudge - 7, 8	OUT OF THE BOARD
+2020-07-02 12:41:53,022 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 5	REACHED TO EMPTY
+2020-07-02 12:41:53,022 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:41:53,022 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 3	OUT OF THE BOARD
+2020-07-02 12:41:53,023 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:41:53,023 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:41:53,023 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:41:53,023 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 5	REACHED TO EMPTY
+2020-07-02 12:41:53,023 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:41:53,023 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 3	OUT OF THE BOARD
+2020-07-02 12:41:53,024 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:41:53,024 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:42:00,349 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:42:00,349 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:42:00,350 - DEBUG - logger:board - board.py - L75 - turnjudge - 1, 7	REACHED TO EMPTY
+2020-07-02 12:42:00,350 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:42:00,350 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 0	REACHED TO OWN PIEE
+2020-07-02 12:42:00,350 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = -1
+2020-07-02 12:42:00,350 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 4	REACHED TO OWN PIEE
+2020-07-02 12:42:00,351 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:42:00,352 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 5	REACHED TO EMPTY
+2020-07-02 12:42:00,352 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:42:00,352 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 3	OUT OF THE BOARD
+2020-07-02 12:42:00,352 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:42:00,353 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:42:00,353 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:42:00,353 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:42:00,353 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:42:00,354 - DEBUG - logger:board - board.py - L67 - turnjudge - 1, -1	OUT OF THE BOARD
+2020-07-02 12:42:00,354 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:42:00,354 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 1	REACHED TO OWN PIEE
+2020-07-02 12:42:00,354 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:42:19,322 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:42:19,322 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:42:19,323 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:42:19,323 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:42:19,323 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:42:19,323 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:42:19,323 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 3	REACHED TO OWN PIEE
+2020-07-02 12:42:19,323 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:42:19,324 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 6	REACHED TO OWN PIEE
+2020-07-02 12:42:19,324 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:42:19,324 - DEBUG - logger:board - board.py - L67 - turnjudge - 4, 8	OUT OF THE BOARD
+2020-07-02 12:42:19,325 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 5	REACHED TO EMPTY
+2020-07-02 12:42:19,325 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:42:19,326 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 3	OUT OF THE BOARD
+2020-07-02 12:42:19,326 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:42:19,326 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:42:19,326 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:42:19,326 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 5	REACHED TO EMPTY
+2020-07-02 12:42:19,327 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:42:19,327 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 3	OUT OF THE BOARD
+2020-07-02 12:42:19,327 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:42:19,327 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:42:21,818 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:42:21,819 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:42:21,819 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:42:21,819 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:42:21,819 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:42:21,819 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:42:21,820 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:42:21,820 - DEBUG - logger:board - board.py - L79 - turnjudge - 6, 6	REACHED TO OWN PIEE
+2020-07-02 12:42:21,820 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:42:21,820 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, 8	OUT OF THE BOARD
+2020-07-02 12:42:21,821 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 5	REACHED TO EMPTY
+2020-07-02 12:42:21,822 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:42:21,822 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 3	OUT OF THE BOARD
+2020-07-02 12:42:21,822 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:42:21,822 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:42:21,822 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:42:21,823 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:42:21,823 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:42:21,823 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 7	REACHED TO OWN PIEE
+2020-07-02 12:42:21,823 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 5
+2020-07-02 12:42:25,563 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:42:25,564 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:42:25,564 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 0
+2020-07-02 12:42:25,564 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:42:25,564 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:42:25,564 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 7	REACHED TO OWN PIEE
+2020-07-02 12:42:25,566 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:42:25,566 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:42:25,566 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 6	REACHED TO OWN PIEE
+2020-07-02 12:42:25,566 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 6
+2020-07-02 12:42:25,566 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:42:25,567 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:42:25,567 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:42:25,567 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 6	REACHED TO OWN PIEE
+2020-07-02 12:42:25,567 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 6
+2020-07-02 12:42:35,574 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:42:35,575 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:42:35,575 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:42:35,575 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 7	REACHED TO EMPTY
+2020-07-02 12:42:35,575 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:42:35,575 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 1	REACHED TO OWN PIEE
+2020-07-02 12:42:35,576 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:42:35,576 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:42:35,576 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:42:35,576 - DEBUG - logger:board - board.py - L79 - turnjudge - 5, 5	REACHED TO OWN PIEE
+2020-07-02 12:42:35,576 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:42:35,577 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:42:35,577 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:42:35,578 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 6	REACHED TO OWN PIEE
+2020-07-02 12:42:35,578 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 6
+2020-07-02 12:42:35,578 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:42:35,578 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:42:35,578 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:42:35,579 - DEBUG - logger:board - board.py - L67 - turnjudge - 1, -1	OUT OF THE BOARD
+2020-07-02 12:42:35,579 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:42:35,579 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 1	REACHED TO OWN PIEE
+2020-07-02 12:42:35,579 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:42:47,276 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = -1
+2020-07-02 12:42:47,276 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:42:47,276 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:42:47,276 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:42:47,277 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:42:47,277 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:42:47,277 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 1	REACHED TO OWN PIEE
+2020-07-02 12:42:47,277 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:42:47,277 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:42:47,278 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:42:47,278 - DEBUG - logger:board - board.py - L67 - turnjudge - 5, 8	OUT OF THE BOARD
+2020-07-02 12:42:47,279 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:42:47,279 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:42:47,279 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 6	REACHED TO OWN PIEE
+2020-07-02 12:42:47,280 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 6
+2020-07-02 12:42:47,280 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:42:47,280 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:42:47,280 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:42:47,280 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 6	REACHED TO OWN PIEE
+2020-07-02 12:42:47,281 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 6
+2020-07-02 12:42:56,877 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = -1
+2020-07-02 12:42:56,878 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 3	OUT OF THE BOARD
+2020-07-02 12:42:56,878 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:42:56,878 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 5	OUT OF THE BOARD
+2020-07-02 12:42:56,878 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = 0
+2020-07-02 12:42:56,878 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:42:56,878 - DEBUG - logger:board - board.py - L75 - turnjudge - 1, 2	REACHED TO EMPTY
+2020-07-02 12:42:56,879 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:42:56,879 - DEBUG - logger:board - board.py - L75 - turnjudge - 1, 7	REACHED TO EMPTY
+2020-07-02 12:42:56,879 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = -1
+2020-07-02 12:42:56,879 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:42:56,879 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:42:56,879 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = 1
+2020-07-02 12:42:56,880 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:42:56,881 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:42:56,881 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 6	REACHED TO OWN PIEE
+2020-07-02 12:42:56,881 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 6
+2020-07-02 12:42:56,881 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:42:56,881 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:42:56,881 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:42:56,882 - DEBUG - logger:board - board.py - L67 - turnjudge - 7, -1	OUT OF THE BOARD
+2020-07-02 12:42:56,882 - DEBUG - logger:board - board.py - L67 - turnjudge - 1, -1	OUT OF THE BOARD
+2020-07-02 12:42:56,882 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:42:56,882 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 1	REACHED TO OWN PIEE
+2020-07-02 12:42:56,882 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:43:04,640 - INFO - logger:board - board.py - L100 - turn - THERE IS ALREADY A PIECE
+2020-07-02 12:43:04,640 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:43:04,640 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:43:04,641 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 6	REACHED TO OWN PIEE
+2020-07-02 12:43:04,641 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 6
+2020-07-02 12:43:04,641 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:43:04,641 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:43:04,642 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:43:04,642 - DEBUG - logger:board - board.py - L67 - turnjudge - 7, -1	OUT OF THE BOARD
+2020-07-02 12:43:04,642 - DEBUG - logger:board - board.py - L67 - turnjudge - 1, -1	OUT OF THE BOARD
+2020-07-02 12:43:04,642 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:43:04,642 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 1	REACHED TO OWN PIEE
+2020-07-02 12:43:04,643 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:43:09,112 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:43:09,113 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = -1
+2020-07-02 12:43:09,113 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:43:09,113 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:43:09,113 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:43:09,113 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:43:09,113 - DEBUG - logger:board - board.py - L67 - turnjudge - 4, -1	OUT OF THE BOARD
+2020-07-02 12:43:09,114 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:43:09,114 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 2	REACHED TO OWN PIEE
+2020-07-02 12:43:09,114 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:43:09,115 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:43:09,115 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:43:09,116 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:09,116 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:43:09,116 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:43:09,116 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:43:09,116 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:15,649 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:43:15,649 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = -1
+2020-07-02 12:43:15,649 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 5	REACHED TO OWN PIEE
+2020-07-02 12:43:15,649 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:43:15,650 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:43:15,651 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:43:15,651 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:15,651 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:43:15,651 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:43:15,651 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:43:15,651 - DEBUG - logger:board - board.py - L67 - turnjudge - 0, 8	OUT OF THE BOARD
+2020-07-02 12:43:15,652 - DEBUG - logger:board - board.py - L67 - turnjudge - 7, -1	OUT OF THE BOARD
+2020-07-02 12:43:15,652 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 6	OUT OF THE BOARD
+2020-07-02 12:43:15,652 - DEBUG - logger:board - board.py - L67 - turnjudge - 1, -1	OUT OF THE BOARD
+2020-07-02 12:43:15,652 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:43:15,652 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 1	REACHED TO OWN PIEE
+2020-07-02 12:43:15,652 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:43:19,841 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:43:19,841 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 1
+2020-07-02 12:43:19,841 - DEBUG - logger:board - board.py - L67 - turnjudge - -1, 7	OUT OF THE BOARD
+2020-07-02 12:43:19,842 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:43:19,842 - DEBUG - logger:board - board.py - L79 - turnjudge - 1, 4	REACHED TO OWN PIEE
+2020-07-02 12:43:19,842 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:43:19,842 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 4	REACHED TO OWN PIEE
+2020-07-02 12:43:19,842 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:43:19,844 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:43:19,844 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:43:19,844 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:19,844 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:43:19,844 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 6	REACHED TO EMPTY
+2020-07-02 12:43:19,844 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 5	REACHED TO OWN PIEE
+2020-07-02 12:43:19,845 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:22,923 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = -1
+2020-07-02 12:43:22,923 - DEBUG - logger:board - board.py - L75 - turnjudge - 0, 1	REACHED TO EMPTY
+2020-07-02 12:43:22,924 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 1
+2020-07-02 12:43:22,924 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = -1
+2020-07-02 12:43:22,924 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 4	REACHED TO OWN PIEE
+2020-07-02 12:43:22,924 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = -1
+2020-07-02 12:43:22,924 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 6	REACHED TO OWN PIEE
+2020-07-02 12:43:22,925 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:43:22,925 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, 8	OUT OF THE BOARD
+2020-07-02 12:43:22,926 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 6	REACHED TO OWN PIEE
+2020-07-02 12:43:22,926 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:22,926 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:43:22,926 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:43:22,926 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:43:22,927 - DEBUG - logger:board - board.py - L67 - turnjudge - 1, -1	OUT OF THE BOARD
+2020-07-02 12:43:22,927 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:43:22,927 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 1	REACHED TO OWN PIEE
+2020-07-02 12:43:22,927 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:43:29,549 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 0
+2020-07-02 12:43:29,549 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:43:29,549 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:43:29,549 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:43:29,550 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 0
+2020-07-02 12:43:29,550 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:43:29,550 - INFO - logger:board - board.py - L125 - turn - THERE IS NO DIRECTION AVAILABLE
+2020-07-02 12:43:29,551 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 6	REACHED TO OWN PIEE
+2020-07-02 12:43:29,551 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:29,551 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:43:29,551 - DEBUG - logger:board - board.py - L67 - turnjudge - 8, 0	OUT OF THE BOARD
+2020-07-02 12:43:29,551 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:43:29,551 - DEBUG - logger:board - board.py - L67 - turnjudge - 1, -1	OUT OF THE BOARD
+2020-07-02 12:43:29,551 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:43:29,552 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 1	REACHED TO OWN PIEE
+2020-07-02 12:43:29,552 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 1, 1
+2020-07-02 12:43:32,583 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, -1], next_piece = 0
+2020-07-02 12:43:32,583 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 0], next_piece = 0
+2020-07-02 12:43:32,583 - DEBUG - logger:board - board.py - L110 - turn - direc = [-1, 1], next_piece = -1
+2020-07-02 12:43:32,584 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:43:32,584 - DEBUG - logger:board - board.py - L67 - turnjudge - 1, -1	OUT OF THE BOARD
+2020-07-02 12:43:32,584 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:43:32,584 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:43:32,584 - DEBUG - logger:board - board.py - L67 - turnjudge - 3, -1	OUT OF THE BOARD
+2020-07-02 12:43:32,584 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:43:32,585 - DEBUG - logger:board - board.py - L79 - turnjudge - 4, 1	REACHED TO OWN PIEE
+2020-07-02 12:43:32,585 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:43:32,586 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:43:32,586 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 0
+2020-07-02 12:43:32,586 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:43:32,586 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:43:32,586 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 0
+2020-07-02 12:43:42,526 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = 0
+2020-07-02 12:43:42,526 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:43:42,527 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1
+2020-07-02 12:43:42,527 - DEBUG - logger:board - board.py - L79 - turnjudge - 3, 3	REACHED TO OWN PIEE
+2020-07-02 12:43:42,528 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 6	REACHED TO OWN PIEE
+2020-07-02 12:43:42,528 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:42,529 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:43:42,529 - DEBUG - logger:board - board.py - L67 - turnjudge - 0, -1	OUT OF THE BOARD
+2020-07-02 12:43:42,529 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:43:42,529 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 1	REACHED TO OWN PIEE
+2020-07-02 12:43:42,529 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:46,288 - DEBUG - logger:board - board.py - L79 - turnjudge - 0, 6	REACHED TO OWN PIEE
+2020-07-02 12:43:46,288 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:46,288 - DEBUG - logger:board - board.py - L168 - gamesetjudge - either can put yet
+2020-07-02 12:43:46,288 - DEBUG - logger:board - board.py - L67 - turnjudge - 0, -1	OUT OF THE BOARD
+2020-07-02 12:43:46,288 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:43:46,288 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 1	REACHED TO OWN PIEE
+2020-07-02 12:43:46,289 - INFO - logger:board - board.py - L141 - passjudge - THERE IS 0, 1
+2020-07-02 12:43:47,022 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, -1], next_piece = 1
+2020-07-02 12:43:47,022 - DEBUG - logger:board - board.py - L67 - turnjudge - 0, -1	OUT OF THE BOARD
+2020-07-02 12:43:47,023 - DEBUG - logger:board - board.py - L110 - turn - direc = [0, 1], next_piece = -1
+2020-07-02 12:43:47,023 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, -1], next_piece = 1
+2020-07-02 12:43:47,023 - DEBUG - logger:board - board.py - L67 - turnjudge - 2, -1	OUT OF THE BOARD
+2020-07-02 12:43:47,023 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 0], next_piece = 1
+2020-07-02 12:43:47,023 - DEBUG - logger:board - board.py - L79 - turnjudge - 2, 1	REACHED TO OWN PIEE
+2020-07-02 12:43:47,023 - DEBUG - logger:board - board.py - L110 - turn - direc = [1, 1], next_piece = -1

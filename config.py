@@ -1,19 +1,44 @@
 #! /usr/bin/env python3
 # config.py
 # programmed by Saito-Saito-Saito
-# last update: 4/5/2020
+# explained in https://Saito-Saito-Saito.github.io/reversi
+# last update: 2/7/2020
 
 
 import sys
-import logging
+from logging import getLogger, StreamHandler, FileHandler, Formatter, DEBUG, INFO, WARNING, ERROR, CRITICAL
 
-logging.basicConfig(level=logging.WARNING, format='%(levelname)s - %(filename)s - L%(lineno)d - %(message)s')
+
+DEFAULT_LOG_ADDRESS = 'log.txt'
+DEFAULT_LOG_FORMAT = Formatter('%(asctime)s - %(levelname)s - logger:%(name)s - %(filename)s - L%(lineno)d - %(funcName)s - %(message)s')
+
+# set up function
+def setLogger(name='default', level=DEBUG, *, fhandler=None, fhandler_level=DEBUG, filename=DEFAULT_LOG_ADDRESS, filemode='w', fileformat=DEFAULT_LOG_FORMAT, shandler=None, shandler_level=CRITICAL, streamformat=DEFAULT_LOG_FORMAT):
+    logger = getLogger(name)
+    logger.setLevel(level)
+    
+    # file handler
+    fhandler = fhandler or FileHandler(filename, mode=filemode)
+    fhandler.setLevel(fhandler_level)
+    fhandler.setFormatter(fileformat)
+    logger.addHandler(fhandler)
+    
+    # stream handler
+    shandler = shandler or StreamHandler()
+    shandler.setLevel(shandler_level)
+    shandler.setFormatter(streamformat)
+    logger.addHandler(shandler)
+    
+    return logger
+
+
+logger = setLogger(__name__)
 
 
 # board is 8 * 8
 SIZE = 8
 if int(SIZE / 2) != SIZE / 2:
-    logging.error('SIZE VALUE HAS TO BE EVEN')
+    logger.error('SIZE VALUE HAS TO BE EVEN')
     sys.exit()
 
 

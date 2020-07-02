@@ -1,13 +1,16 @@
 #! /usr/bin/env python3
 # main.py
 # programmed by Saito-Saito-Saito
-# last update: 4/5/2020
+# explained in https://Saito-Saito-Saito.github.io/reversi
+# last update: 2/7/2020
 
 from config import *
 import IO
 import board
 
 # preset
+logger = setLogger(__name__)
+
 main_board = board.Board()
 player = BLACK
 
@@ -26,7 +29,7 @@ while True:
     elif player == WHITE:
         print('● TURN', end=' ')
     else:
-        logging.error('UNEXPECTED VALUE of PLAYER in the while loop')
+        logger.error('UNEXPECTED VALUE of PLAYER in the while loop')
         break
 
     ### PASS JUDGE
@@ -46,7 +49,7 @@ while True:
         break
     else:
         square = IO.InputFormat(s)
-        logging.info('motion = {}'.format(square))
+        logger.info('motion = {}'.format(square))
     
     # invalid putting
     if square == False:
@@ -86,6 +89,6 @@ else:
     elif counter[0] < counter[1]:
         print('WHITE WINS')
     else:
-        logging.error('ILLOGICAL ATTITUDE out of the while loop')
+        logger.error('ILLOGICAL ATTITUDE out of the while loop')
 
 print('\nGAME OVER\n')
