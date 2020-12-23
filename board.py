@@ -2,7 +2,7 @@
 # board.py
 # programmed by Saito-Saito-Saito
 # explained in https://Saito-Saito-Saito.github.io/reversi
-# last update: 2/7/2020
+# last update: 23/12/2020
 
 import copy
 
@@ -23,7 +23,7 @@ class Board:
             self.board[int(SIZE / 2) - 1][int(SIZE / 2)] = BLACK
             self.board[int(SIZE / 2)][int(SIZE / 2) - 1] = BLACK
             self.board[int(SIZE / 2)][int(SIZE / 2)] = WHITE
-            # 0:進行中(途中)PRC　1:決着SET
+        # 0:進行中(途中)PRC　1:決着SET
         self.game_status = status
         self.winner = winner
         self.logger = logger or local_logger
@@ -81,7 +81,7 @@ class Board:
             return True
         # OPPONENT'S
         elif piece == -player:
-            return self.turnjudge(player, row + direction[ROW], col + direction[COL], direction)
+            return self.turnjudge(player, row + direction[ROW], col + direction[COL], direction, logger)
         # ERROR
         else:
             logger.error('UNEXPECTED VALUE of PLAYER in putjudge')
@@ -94,12 +94,12 @@ class Board:
         # out of the board
         if not (InBoard(row) and InBoard(col)):
             logger.info('OUT OF THE BOARD')
-            return False
+            return FAILED
 
         # there is already a piece
         if self.board[row][col] != EMPTY:
             logger.info('THERE IS ALREADY A PIECE')
-            return False
+            return FAILED
 
         turned = False
         # searching all the direction for available one
@@ -120,11 +120,11 @@ class Board:
         # in case a piece was turned
         if turned:
             self.board[row][col] = player
-            return True
+            return SUCCEEDED
         # in case any piece was not turned
         else:
             logger.info('THERE IS NO DIRECTION AVAILABLE')
-            return False
+            return FAILED
 
     
     def passjudge(self, player, logger=None):
@@ -171,3 +171,19 @@ class Board:
         else:
             self.game_status = GAME_SET
             return True
+
+
+if __name__ == "__main__":
+    setup = [
+        [0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 1, 0, 0, 0, 0, 0],
+        [0, 0, 0, 1, 1, 1, 1, 0],
+        [0, 0, 0, 1, 1, 1, 1, 1],
+        [0, 0, 0, 0, 1, 0, 1, 0],
+        [0, 0, 0, 0, 0, 1, 0, 0],
+        [0, 0, 0, 0, -1, 0, 1, 0]
+    ]
+
+    TestBoard = Board(setup)
+    TestBoard.BoardPrint()

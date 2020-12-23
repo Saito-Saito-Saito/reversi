@@ -2,7 +2,7 @@
 # main.py
 # programmed by Saito-Saito-Saito
 # explained in https://Saito-Saito-Saito.github.io/reversi
-# last update: 2/7/2020
+# last update: 23/12/2020
 
 from config import *
 import IO
@@ -55,7 +55,7 @@ while True:
     if square == False:
         print('INVALID INPUT')
         continue
-    elif main_board.turn(player, *square) == False:
+    elif main_board.turn(player, *square) == FAILED:
         print('INVALID PUTTING')
         continue
     
@@ -67,7 +67,6 @@ while True:
 
 
 print('\nGAME SET')
-counter = main_board.countpiece()
 
 # in case of give up
 if main_board.game_status == GAME_PRC:
@@ -85,9 +84,9 @@ else:
     if counter[0] == counter[1]:
         print('DRAW')
     elif counter[0] > counter[1]:
-        print('BLACK WINS')
+        print('○ WINS')
     elif counter[0] < counter[1]:
-        print('WHITE WINS')
+        print('● WINS')
     else:
         logger.error('ILLOGICAL ATTITUDE out of the while loop')
 
